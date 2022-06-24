@@ -1,0 +1,126 @@
+{
+    "estabelecimentos": [
+      {
+        "id": 1,
+        "código": 11,
+        "quantidadeDeAcessos": 0,
+        "nome": "estabelecimentoTeste",
+        "cep": "xxxxxxxxx",
+        "rua": "xxxxxxx",
+        "numero": 2,
+        "bairro": "xxxx",
+        "cidade": "Contagem",
+        "UF": "MG",
+        "email": "estabelecimentoTeste@gmail.com",
+        "cnpj": "xxx",
+        "telefone": "xxxxxxxxxxx",
+        "senha": "xxxxxx"
+      }
+    ],
+    "pessoaFisica": [
+      {
+        "id": 1,
+        "primeiroNome": "Pessoa",
+        "sobreNome": "Teste",
+        "nomeDeUsuario": "PessoaTeste",
+        "cep": "xxxxxxxxy",
+        "rua": "yyy",
+        "numero": 10,
+        "bairro": "bairroPessoa",
+        "cidade": "Contagem",
+        "UF": "MG",
+        "email": "pessoaTeste@gmail.com",
+        "telefone": "yyyyyy",
+        "senha": "yyyyy"
+      }
+    ],
+    "gerente": [
+      {
+        "id": 1,
+        "primeiroNome": "Gerente",
+        "sobreNome": "Teste",
+        "nomeDeUsuario": "gerenteTeste",
+        "cpf": "xxxxxxxxxxx",
+        "codigoEstabelecimento": "xxx",
+        "email": "gerenteTeste@gmail.com",
+        "telefone": "xxxxxxxxxxx",
+        "senha": "zzzzz"
+      }
+    ],
+    "produtos": [
+      {
+        "id": 1,
+        "idEstabelecimento": 1,
+        "nome": "macarrão",
+        "quantidadeDeAcessos": 0,
+        "tipo": "Alimenticio",
+        "marca": "Vilma",
+        "preco": "2,5",
+        "quantidade": 123
+      },
+      {
+        "id": 2,
+        "idEstabelecimento": 2,
+        "quantidadeDeAcessos": 0,
+        "nome": "suco de laranja 2l",
+        "tipo": "Bebidas",
+        "marca": "del Valle",
+        "preco": "8.50",
+        "quantidade": "12"
+      },
+      {
+        "id": 3,
+        "idEstabelecimento": 2,
+        "quantidadeDeAcessos": 0,
+        "nome": "arroz integral",
+        "tipo": "Alimenticio",
+        "marca": "marca teste",
+        "preco": "15",
+        "quantidade": "10"
+      },
+      {
+        "id": 4,
+        "idEstabelecimento": 1,
+        "quantidadeDeAcessos": 0,
+        "nome": "creme Dental ",
+        "tipo": "Higiene",
+        "marca": "Colgate",
+        "preco": "2.50",
+        "quantidade": "7",
+        "promocao": true,
+        "novoPreco": "1.50"
+      },
+      {
+        "id": 5,
+        "idEstabelecimento": 1,
+        "quantidadeDeAcessos": 0,
+        "nome": "detergente",
+        "tipo": "Limpeza",
+        "marca": "Ypê",
+        "preco": "2.00",
+        "quantidade": "10"
+      },
+      {
+        "id": 6,
+        "idEstabelecimento": 1,
+        "quantidadeDeAcessos": 0,
+        "nome": "espumadeira",
+        "tipo": "Utensilios",
+        "marca": "Tramontina",
+        "preco": "19.90",
+        "quantidade": "10",
+        "promocao": true,
+        "novoPreco": "17.20"
+      },
+      {
+        "id": 7,
+        "idEstabelecimento": 1,
+        "quantidadeDeAcessos": 0,
+        "nome": "creme Dental",
+        "tipo": "Higiene",
+        "marca": "Oral B",
+        "preco": "2.50",
+        "quantidade": "10"
+      }
+    ]
+  }
