@@ -4,34 +4,34 @@
         "id": 1,
         "código": 11,
         "quantidadeDeAcessos": 20,
-        "nome": "estabelecimentoTeste",
-        "cep": "xxxxxxxxx",
-        "rua": "xxxxxxx",
-        "numero": 2,
-        "bairro": "xxxx",
+        "nome": "supermercado BH",
+        "cep": "32341250",
+        "rua": "praça Nossa Sra. da Conceição",
+        "numero": 383,
+        "bairro": "Novo Eldorado",
         "cidade": "Contagem",
         "UF": "MG",
         "email": "estabelecimentoTeste@gmail.com",
         "cnpj": "xxx",
-        "telefone": "xxxxxxxxxxx",
-        "senha": "xxxxxx"
+        "telefone": "313392-1754",
+        "senha": "bh"
       }
     ],
     "pessoaFisica": [
       {
         "id": 1,
         "primeiroNome": "Pessoa",
-        "sobreNome": "Teste",
+        "sobreNome": "Silva",
         "nomeDeUsuario": "PessoaTeste",
-        "cep": "xxxxxxxxy",
-        "rua": "yyy",
+        "cep": "12345678",
+        "rua": "Rio Cumprido",
         "numero": 10,
-        "bairro": "bairroPessoa",
+        "bairro": "Cinco",
         "cidade": "Contagem",
         "UF": "MG",
         "email": "pessoaTeste@gmail.com",
-        "telefone": "yyyyyy",
-        "senha": "yyyyy"
+        "telefone": "31931457896",
+        "senha": "pessoaSilva"
       }
     ],
     "gerente": [
@@ -40,11 +40,11 @@
         "primeiroNome": "Gerente",
         "sobreNome": "Teste",
         "nomeDeUsuario": "gerenteTeste",
-        "cpf": "xxxxxxxxxxx",
-        "codigoEstabelecimento": "xxx",
+        "cpf": "123456",
+        "codigoEstabelecimento": 11,
         "email": "gerenteTeste@gmail.com",
-        "telefone": "xxxxxxxxxxx",
-        "senha": "zzzzz"
+        "telefone": "31965874965",
+        "senha": "gerenteTeste"
       }
     ],
     "produtos": [
