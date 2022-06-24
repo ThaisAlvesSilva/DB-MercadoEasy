@@ -2,7 +2,7 @@
     "estabelecimentos": [
       {
         "id": 1,
-        "código": 11,
+        "código": 1000,
         "quantidadeDeAcessos": 20,
         "nome": "supermercado BH",
         "cep": "32341250",
@@ -15,6 +15,22 @@
         "cnpj": "xxx",
         "telefone": "313392-1754",
         "senha": "bh"
+      },
+      {
+        "id": 2,
+        "código": 1001,
+        "quantidadeDeAcessos": 0,
+        "nome": "Supermercado Epa",
+        "cep": "3234110",
+        "rua": "Av Dr Joo Augusto Fonseca e Silva",
+        "numero": "1104",
+        "bairro": "Novo Eldorado",
+        "cidade": "Contagem",
+        "UF": "MG",
+        "email": "epa@gmail.com",
+        "cnpj": "083145470001",
+        "telefone": "3133918595",
+        "senha": "epa"
       }
     ],
     "pessoaFisica": [
@@ -41,10 +57,21 @@
         "sobreNome": "Teste",
         "nomeDeUsuario": "gerenteTeste",
         "cpf": "123456",
-        "codigoEstabelecimento": 11,
+        "codigoEstabelecimento": 1000,
         "email": "gerenteTeste@gmail.com",
         "telefone": "31965874965",
         "senha": "gerenteTeste"
+      },
+      {
+        "id": 2,
+        "primeiroNome": "Gerente",
+        "sobreNome": "DOIS",
+        "nomeDeUsuario": "Gerente2",
+        "cpf": "11111111111",
+        "codigoEstabelecimento": "1001",
+        "email": "gerenteTeste2@gmail.com",
+        "telefone": "31955555555",
+        "senha": "gerente"
       }
     ],
     "produtos": [
