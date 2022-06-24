@@ -52,7 +52,7 @@
         "id": 1,
         "idEstabelecimento": 1,
         "nome": "macarrão",
-        "quantidadeDeAcessos": 0,
+        "quantidadeDeAcessos": 10,
         "tipo": "Alimenticio",
         "marca": "Vilma",
         "preco": "2,5",
@@ -71,7 +71,7 @@
       {
         "id": 3,
         "idEstabelecimento": 2,
-        "quantidadeDeAcessos": 0,
+        "quantidadeDeAcessos": 50,
         "nome": "arroz integral",
         "tipo": "Alimenticio",
         "marca": "marca teste",
@@ -81,7 +81,7 @@
       {
         "id": 4,
         "idEstabelecimento": 1,
-        "quantidadeDeAcessos": 0,
+        "quantidadeDeAcessos": 35,
         "nome": "creme Dental ",
         "tipo": "Higiene",
         "marca": "Colgate",
@@ -93,7 +93,7 @@
       {
         "id": 5,
         "idEstabelecimento": 1,
-        "quantidadeDeAcessos": 0,
+        "quantidadeDeAcessos": 80,
         "nome": "detergente",
         "tipo": "Limpeza",
         "marca": "Ypê",
@@ -103,7 +103,7 @@
       {
         "id": 6,
         "idEstabelecimento": 1,
-        "quantidadeDeAcessos": 0,
+        "quantidadeDeAcessos": 10,
         "nome": "espumadeira",
         "tipo": "Utensilios",
         "marca": "Tramontina",
@@ -115,7 +115,7 @@
       {
         "id": 7,
         "idEstabelecimento": 1,
-        "quantidadeDeAcessos": 0,
+        "quantidadeDeAcessos": 20,
         "nome": "creme Dental",
         "tipo": "Higiene",
         "marca": "Oral B",
