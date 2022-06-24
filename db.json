@@ -61,17 +61,6 @@
         "email": "gerenteTeste@gmail.com",
         "telefone": "31965874965",
         "senha": "gerenteTeste"
-      },
-      {
-        "id": 2,
-        "primeiroNome": "Gerente",
-        "sobreNome": "DOIS",
-        "nomeDeUsuario": "Gerente2",
-        "cpf": "11111111111",
-        "codigoEstabelecimento": "1001",
-        "email": "gerenteTeste2@gmail.com",
-        "telefone": "31955555555",
-        "senha": "gerente"
       }
     ],
     "produtos": [
