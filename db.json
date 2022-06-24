@@ -72,7 +72,9 @@
         "tipo": "Alimenticio",
         "marca": "Vilma",
         "preco": "2,5",
-        "quantidade": 123
+        "quantidade": 123,
+        "promocao": true,
+        "novoPreco": "1.50"
       },
       {
         "id": 2,
