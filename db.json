@@ -70,14 +70,26 @@
         "nome": "macarrão",
         "quantidadeDeAcessos": 10,
         "tipo": "Alimenticio",
-        "marca": "Vilma",
+        "marca": "Renata",
         "preco": "2,5",
         "quantidade": 123,
         "promocao": true,
         "novoPreco": "1.50"
       },
       {
-        "id": 5,
+        "id": 2,
+        "idEstabelecimento": 2,
+        "nome": "macarrão",
+        "quantidadeDeAcessos": 10,
+        "tipo": "Alimenticio",
+        "marca": "Vilma",
+        "preco": "2,30",
+        "quantidade": 20,
+        "promocao": true,
+        "novoPreco": "1.50"
+      },
+      {
+        "id": 3,
         "idEstabelecimento": 1,
         "quantidadeDeAcessos": 80,
         "nome": "detergente",
@@ -87,7 +99,7 @@
         "quantidade": "13"
       },
       {
-        "id": 6,
+        "id": 4,
         "idEstabelecimento": 1,
         "quantidadeDeAcessos": 10,
         "nome": "espumadeira",
