@@ -77,38 +77,6 @@
         "novoPreco": "1.50"
       },
       {
-        "id": 2,
-        "idEstabelecimento": 2,
-        "quantidadeDeAcessos": 0,
-        "nome": "suco de laranja 2l",
-        "tipo": "Bebidas",
-        "marca": "del Valle",
-        "preco": "8.50",
-        "quantidade": "12"
-      },
-      {
-        "id": 3,
-        "idEstabelecimento": 2,
-        "quantidadeDeAcessos": 50,
-        "nome": "arroz integral",
-        "tipo": "Alimenticio",
-        "marca": "marca teste",
-        "preco": "15",
-        "quantidade": "10"
-      },
-      {
-        "id": 4,
-        "idEstabelecimento": 2,
-        "quantidadeDeAcessos": 35,
-        "nome": "creme Dental ",
-        "tipo": "Higiene",
-        "marca": "Colgate",
-        "preco": "2.50",
-        "quantidade": "7",
-        "promocao": true,
-        "novoPreco": "1.50"
-      },
-      {
         "id": 5,
         "idEstabelecimento": 1,
         "quantidadeDeAcessos": 80,
@@ -129,16 +97,6 @@
         "quantidade": "10",
         "promocao": true,
         "novoPreco": "17.20"
-      },
-      {
-        "id": 7,
-        "idEstabelecimento": 1,
-        "quantidadeDeAcessos": 20,
-        "nome": "creme Dental",
-        "tipo": "Higiene",
-        "marca": "Oral B",
-        "preco": "2.50",
-        "quantidade": "10"
       }
     ]
   }
